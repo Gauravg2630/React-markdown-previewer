@@ -82,15 +82,6 @@ The HTML is displayed in the preview area on the right.
 
 ![App Preview](Screenshot%20(525).png)
 
-
-# Hello Markdown 👋
-- Bold
-- Italic
-- Inline code
-> Blockquote
-// Code block
-console.log(Hello, World!)
-
 📌 Example Markdown Input
 # Hello Markdown 👋
 
